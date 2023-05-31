@@ -1,6 +1,6 @@
 # Brain-Tumor-Classification
 
-Link to [data set](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download) found on kaggle.
+[Link to data set](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download) found on kaggle.
 
 ## Key Features:
 - Data augmentation: The project utilizes the Keras ImageDataGenerator to perform data augmentation
